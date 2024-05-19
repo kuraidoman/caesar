@@ -5,4 +5,4 @@ Usage: ./caesar (key)
 
 Note: This program only executes with a single command-line argument (the key).
 
-This program was created for CS50's problem set.
+This program was created for my CS50's problem set 2.
